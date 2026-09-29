@@ -601,6 +601,7 @@
       "Vinos de altura y enoturismo en la provincia de Salta (Argentina)": "High-altitude wines and wine tourism in the province of Salta (Argentina)",
       "Propuesta complementaria de carácter internacional": "Additional proposal with an international focus",
       "Programa provisional. Algunos ponentes, actividades y detalles logísticos quedan sujetos a confirmación.": "Provisional programme. Some speakers, activities and logistical details are still to be confirmed.",
+      "Descargar o imprimir": "Download or print",
       "Volver a la web del congreso": "Back to the conference website",
     },
     pt: {
@@ -665,6 +666,7 @@
       "Vinos de altura y enoturismo en la provincia de Salta (Argentina)": "Vinhos de altitude e enoturismo na província de Salta (Argentina)",
       "Propuesta complementaria de carácter internacional": "Proposta complementar de carácter internacional",
       "Programa provisional. Algunos ponentes, actividades y detalles logísticos quedan sujetos a confirmación.": "Programa provisório. Alguns oradores, atividades e detalhes logísticos estão sujeitos a confirmação.",
+      "Descargar o imprimir": "Descarregar ou imprimir",
       "Volver a la web del congreso": "Voltar ao site do congresso",
     },
   };

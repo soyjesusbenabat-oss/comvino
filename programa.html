@@ -80,6 +80,7 @@ h1 b{display:block;color:var(--mg);font-weight:600;font-style:normal}
 /* Pie */
 footer{margin:60px 0 80px;padding-top:22px;border-top:2px solid var(--ink);display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;align-items:center}
 footer p{font-family:var(--sans);font-size:12px;color:var(--mut);max-width:44em;line-height:1.6}
+footer .pie-enlaces{display:flex;gap:26px}
 footer a{font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--mg);text-decoration:none;white-space:nowrap}
 
 @media (max-width:820px){
@@ -93,11 +94,39 @@ footer a{font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:.
   .day h2{font-size:30px}
   .extra{padding:26px 20px}
 }
+/* Al imprimir o guardar en PDF conserva la maqueta de dos columnas y cabe en pocas páginas */
+@page{size:A4;margin:12mm}
 @media print{
-  .langs,footer a{display:none}
-  body{font-size:11pt}
-  .day,.extra,.tracks{break-inside:avoid}
-  .bar{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .langs,footer .pie-enlaces{display:none}
+  body{font-size:9.5pt}
+  .wrap{max-width:none;padding:0}
+  .bar .wrap{padding:8px 10px}
+  .top{padding-top:26px}
+  h1{font-size:44pt}
+  .lead{font-size:12pt;margin-top:12px}
+  .meta{grid-template-columns:repeat(3,1fr);margin-top:20px}
+  .meta div{padding:10px 0 12px;border-right:1px solid var(--line);border-bottom:0}
+  .meta div+div{padding-left:16px}
+  .meta div:last-child{border-right:0}
+  .meta strong{font-size:16pt}
+  .day{margin-top:26px}
+  .day .num{font-size:28pt}
+  .day h2{font-size:20pt}
+  .day .sub{font-size:12pt}
+  .row{grid-template-columns:110px 1fr;gap:12px;padding:7px 0}
+  .row .t{font-size:11pt}
+  .moment{padding:10px 0 2px}
+  .tracks{grid-template-columns:1fr 1fr;gap:24px;margin-top:18px}
+  .track h3{font-size:14pt}
+  .paper{padding:8px 0}
+  .paper .t{font-size:10pt}
+  .extra{margin-top:28px;padding:20px}
+  .extra h2{font-size:17pt}
+  footer{margin:24px 0 0}
+  .day,.tracks,.track{break-inside:auto}
+  .extra,.row,.paper{break-inside:avoid}
+  .day header,.day .sub,.day .rule{break-after:avoid}
+  .bar,.row.mark,.extra{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 }
 </style>
 </head>
@@ -224,7 +253,7 @@ footer a{font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:.
 
   <footer>
     <p>Programa provisional. Algunos ponentes, actividades y detalles logísticos quedan sujetos a confirmación.</p>
-    <a href="index.html">Volver a la web del congreso</a>
+    <span class="pie-enlaces"><a href="#" onclick="window.print();return false">Descargar o imprimir</a> <a href="index.html">Volver a la web del congreso</a></span>
   </footer>
 
 </div>
