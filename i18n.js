@@ -210,27 +210,27 @@
       "Disponible en el área privada tras el pago, por el importe total de la modalidad elegida. Para factura proforma:":
         "Available in the private area once payment is made, for the full amount of the chosen option. For a proforma invoice:",
       "Envía tu abstract y únete a": "Send your abstract and join",
-      "Propuestas hasta el 30 de septiembre de 2026.": "Proposals until 30 September 2026.",
+      "Propuestas hasta el 31 de enero de 2027.": "Proposals until 31 January 2027.",
       "Enviar aquí": "Submit here",
 
       // Fechas
       "Fechas clave": "Key dates",
       "El calendario": "The ComVino",
       "de ComVino": "calendar",
-      "30 sep": "30 Sep",
+      "31 ene": "31 Jan",
       "Envío de propuestas": "Call for papers",
-      "El día 5 de cada mes se notifica la aceptación de las recibidas el mes anterior. Las enviadas hasta el 30/09 tendrán respuesta el 5 de octubre.":
-        "On the 5th of each month we notify decisions on proposals received the previous month. Those sent by 30 September will be answered on 5 October.",
-      "15 oct": "15 Oct",
+      "El día 5 de cada mes se notifica la aceptación de las recibidas el mes anterior. Las enviadas hasta el 31/01 tendrán respuesta el 5 de febrero.":
+        "On the 5th of each month we notify decisions on proposals received the previous month. Those sent by 31 January will be answered on 5 February.",
+      "20 feb": "20 Feb",
       "Inscripción al congreso": "Conference registration",
       "Talleres abiertos hasta agotar plazas o, como máximo, hasta esta fecha.": "Workshops open until places run out or, at the latest, until this date.",
-      "30 oct": "30 Oct",
+      "1 mar": "1 Mar",
       "Programa definitivo": "Final programme",
       "Publicación del programa final del congreso.": "Publication of the final conference programme.",
-      "31 ene": "31 Jan",
+      "31 may": "31 May",
       "Texto completo": "Full text",
       "Envío de las comunicaciones aceptadas.": "Submission of accepted papers.",
-      "Jun": "Jun",
+      "Nov": "Nov",
       "Monografía": "Monograph",
       "Publicación de los resultados científicos.": "Publication of the research results.",
 
@@ -481,27 +481,27 @@
       "Disponible en el área privada tras el pago, por el importe total de la modalidad elegida. Para factura proforma:":
         "Disponível na área privada após o pagamento, pelo valor total da modalidade escolhida. Para fatura proforma:",
       "Envía tu abstract y únete a": "Envie o seu resumo e junte-se ao",
-      "Propuestas hasta el 30 de septiembre de 2026.": "Propostas até 30 de setembro de 2026.",
+      "Propuestas hasta el 31 de enero de 2027.": "Propostas até 31 de janeiro de 2027.",
       "Enviar aquí": "Enviar aqui",
 
       // Datas
       "Fechas clave": "Datas importantes",
       "El calendario": "O calendário",
       "de ComVino": "do ComVino",
-      "30 sep": "30 set.",
+      "31 ene": "31 jan.",
       "Envío de propuestas": "Envio de propostas",
-      "El día 5 de cada mes se notifica la aceptación de las recibidas el mes anterior. Las enviadas hasta el 30/09 tendrán respuesta el 5 de octubre.":
-        "No dia 5 de cada mês comunica-se a aceitação das propostas recebidas no mês anterior. As enviadas até 30/09 terão resposta a 5 de outubro.",
-      "15 oct": "15 out.",
+      "El día 5 de cada mes se notifica la aceptación de las recibidas el mes anterior. Las enviadas hasta el 31/01 tendrán respuesta el 5 de febrero.":
+        "No dia 5 de cada mês comunica-se a aceitação das propostas recebidas no mês anterior. As enviadas até 31/01 terão resposta a 5 de fevereiro.",
+      "20 feb": "20 fev.",
       "Inscripción al congreso": "Inscrição no congresso",
       "Talleres abiertos hasta agotar plazas o, como máximo, hasta esta fecha.": "Workshops abertos até esgotar os lugares ou, no máximo, até esta data.",
-      "30 oct": "30 out.",
+      "1 mar": "1 mar.",
       "Programa definitivo": "Programa definitivo",
       "Publicación del programa final del congreso.": "Publicação do programa final do congresso.",
-      "31 ene": "31 jan.",
+      "31 may": "31 maio",
       "Texto completo": "Texto completo",
       "Envío de las comunicaciones aceptadas.": "Envio das comunicações aceites.",
-      "Jun": "Jun.",
+      "Nov": "Nov.",
       "Monografía": "Monografia",
       "Publicación de los resultados científicos.": "Publicação dos resultados científicos.",
 
