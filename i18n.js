@@ -13,13 +13,13 @@
   var DICT = {
     en: {
       // Aplazamiento del congreso
-      "Aplazado a marzo": "Postponed to March",
-      "Fecha por confirmar": "Date to be confirmed",
-      "Congreso aplazado.": "Conference postponed.",
-      "La convocatoria de elecciones generales obliga a aplazar ComVino hasta el próximo mes de marzo. Próximamente se confirmará la fecha definitiva.": "The calling of a general election means ComVino has to be postponed to next March. The final date will be confirmed shortly.",
-      "Aplazado al mes de marzo. Próximamente se confirmará la fecha definitiva.": "Postponed to March. The final date will be confirmed shortly.",
+      "19—21 mar": "19—21 Mar",
+      "2027 · Tres días": "2027 · Three days",
+      "Nuevas fechas.": "New dates.",
+      "19—21 de marzo de 2027": "19—21 March 2027",
+      "La convocatoria de elecciones generales obliga a aplazar ComVino, que se celebrará del 19 al 21 de marzo de 2027 en la Villa de Teguise.": "The calling of a general election means ComVino has to be postponed: it will now take place on 19—21 March 2027 in Villa de Teguise.",
       "Aviso importante": "Important notice",
-      "El congreso se aplaza a marzo": "The conference is postponed to March",
+      "El congreso se aplaza al 19—21 de marzo de 2027": "The conference is postponed to 19—21 March 2027",
       "Entendido": "Got it",
       "Este programa es provisional y se ajustará a las nuevas fechas.": "This programme is provisional and will be adjusted to the new dates.",
       // Menú y portada
@@ -38,7 +38,6 @@
       "Quiero participar": "I want to take part",
       "Ver programa": "See the programme",
       "La Geria · Lanzarote": "La Geria · Lanzarote",
-      "27—30 nov": "27—30 Nov",
       "2026 · Cuatro días": "2026 · Four days",
       "Convento de Santo Domingo": "Convento de Santo Domingo",
       "Integrado en el festival": "Part of the festival",
@@ -284,13 +283,13 @@
 
     pt: {
       // Adiamento do congresso
-      "Aplazado a marzo": "Adiado para março",
-      "Fecha por confirmar": "Data a confirmar",
-      "Congreso aplazado.": "Congresso adiado.",
-      "La convocatoria de elecciones generales obliga a aplazar ComVino hasta el próximo mes de marzo. Próximamente se confirmará la fecha definitiva.": "A convocação de eleições gerais obriga a adiar o ComVino para o próximo mês de março. A data definitiva será confirmada em breve.",
-      "Aplazado al mes de marzo. Próximamente se confirmará la fecha definitiva.": "Adiado para o mês de março. A data definitiva será confirmada em breve.",
+      "19—21 mar": "19—21 mar.",
+      "2027 · Tres días": "2027 · Três dias",
+      "Nuevas fechas.": "Novas datas.",
+      "19—21 de marzo de 2027": "19—21 de março de 2027",
+      "La convocatoria de elecciones generales obliga a aplazar ComVino, que se celebrará del 19 al 21 de marzo de 2027 en la Villa de Teguise.": "A convocação de eleições gerais obriga a adiar o ComVino, que se realizará de 19 a 21 de março de 2027 na Villa de Teguise.",
       "Aviso importante": "Aviso importante",
-      "El congreso se aplaza a marzo": "O congresso é adiado para março",
+      "El congreso se aplaza al 19—21 de marzo de 2027": "O congresso é adiado para 19—21 de março de 2027",
       "Entendido": "Entendido",
       "Este programa es provisional y se ajustará a las nuevas fechas.": "Este programa é provisório e será ajustado às novas datas.",
       // Menu e capa
@@ -309,7 +308,6 @@
       "Quiero participar": "Quero participar",
       "Ver programa": "Ver programa",
       "La Geria · Lanzarote": "La Geria · Lanzarote",
-      "27—30 nov": "27—30 nov.",
       "2026 · Cuatro días": "2026 · Quatro dias",
       "Convento de Santo Domingo": "Convento de Santo Domingo",
       "Integrado en el festival": "Integrado no festival",
@@ -560,7 +558,7 @@
    */
   var PROGRAMA = {
     en: {
-      "Cuatro días entre el paisaje volcánico de Lanzarote, la cata y la investigación sobre cómo se comunica el vino.": "Four days among the volcanic landscape of Lanzarote, wine tasting and research into how wine is communicated.",
+      "Tres días entre el paisaje volcánico de Lanzarote, la cata y la investigación sobre cómo se comunica el vino.": "Three days among the volcanic landscape of Lanzarote, wine tasting and research into how wine is communicated.",
       "provisional": "provisional",
       "Noviembre 2026": "November 2026",
       "Islas Canarias": "Canary Islands",
@@ -626,7 +624,7 @@
       "Volver a la web del congreso": "Back to the conference website",
     },
     pt: {
-      "Cuatro días entre el paisaje volcánico de Lanzarote, la cata y la investigación sobre cómo se comunica el vino.": "Quatro dias entre a paisagem vulcânica de Lanzarote, a prova de vinhos e a investigação sobre como se comunica o vinho.",
+      "Tres días entre el paisaje volcánico de Lanzarote, la cata y la investigación sobre cómo se comunica el vino.": "Três dias entre a paisagem vulcânica de Lanzarote, a prova de vinhos e a investigação sobre como se comunica o vinho.",
       "provisional": "provisório",
       "Noviembre 2026": "Novembro de 2026",
       "Islas Canarias": "Ilhas Canárias",

@@ -69,8 +69,8 @@
       '<div class="av-caja">' +
       '<button type="button" class="av-x" aria-label="Cerrar">&times;</button>' +
       '<p class="av-kick">Aviso importante</p>' +
-      '<h2>El congreso se aplaza a marzo</h2>' +
-      '<p>La convocatoria de elecciones generales obliga a aplazar ComVino hasta el próximo mes de marzo. Próximamente se confirmará la fecha definitiva.</p>' +
+      '<h2>El congreso se aplaza al 19—21 de marzo de 2027</h2>' +
+      '<p>La convocatoria de elecciones generales obliga a aplazar ComVino, que se celebrará del 19 al 21 de marzo de 2027 en la Villa de Teguise.</p>' +
       '<button type="button" class="av-ok">Entendido</button>' +
       '</div>';
     d.addEventListener("click", function (e) { if (e.target === d) cerrar(); });
