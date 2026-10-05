@@ -12,6 +12,16 @@
 
   var DICT = {
     en: {
+      // Aplazamiento del congreso
+      "Aplazado a marzo": "Postponed to March",
+      "Fecha por confirmar": "Date to be confirmed",
+      "Congreso aplazado.": "Conference postponed.",
+      "La convocatoria de elecciones generales obliga a aplazar ComVino hasta el próximo mes de marzo. Próximamente se confirmará la fecha definitiva.": "The calling of a general election means ComVino has to be postponed to next March. The final date will be confirmed shortly.",
+      "Aplazado al mes de marzo. Próximamente se confirmará la fecha definitiva.": "Postponed to March. The final date will be confirmed shortly.",
+      "Aviso importante": "Important notice",
+      "El congreso se aplaza a marzo": "The conference is postponed to March",
+      "Entendido": "Got it",
+      "Este programa es provisional y se ajustará a las nuevas fechas.": "This programme is provisional and will be adjusted to the new dates.",
       // Menú y portada
       "Presentación": "About",
       "Programa": "Programme",
@@ -273,6 +283,16 @@
     },
 
     pt: {
+      // Adiamento do congresso
+      "Aplazado a marzo": "Adiado para março",
+      "Fecha por confirmar": "Data a confirmar",
+      "Congreso aplazado.": "Congresso adiado.",
+      "La convocatoria de elecciones generales obliga a aplazar ComVino hasta el próximo mes de marzo. Próximamente se confirmará la fecha definitiva.": "A convocação de eleições gerais obriga a adiar o ComVino para o próximo mês de março. A data definitiva será confirmada em breve.",
+      "Aplazado al mes de marzo. Próximamente se confirmará la fecha definitiva.": "Adiado para o mês de março. A data definitiva será confirmada em breve.",
+      "Aviso importante": "Aviso importante",
+      "El congreso se aplaza a marzo": "O congresso é adiado para março",
+      "Entendido": "Entendido",
+      "Este programa es provisional y se ajustará a las nuevas fechas.": "Este programa é provisório e será ajustado às novas datas.",
       // Menu e capa
       "Presentación": "Apresentação",
       "Programa": "Programa",
