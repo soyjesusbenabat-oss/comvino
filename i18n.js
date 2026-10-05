@@ -19,7 +19,7 @@
       "19—21 de marzo de 2027": "19—21 March 2027",
       "La convocatoria de elecciones generales obliga a aplazar ComVino, que se celebrará del 19 al 21 de marzo de 2027 en la Villa de Teguise.": "The calling of a general election means ComVino has to be postponed: it will now take place on 19—21 March 2027 in Villa de Teguise.",
       "Aviso importante": "Important notice",
-      "El congreso se aplaza al 19—21 de marzo de 2027": "The conference is postponed to 19—21 March 2027",
+      "El congreso se celebrará del 19 al 21 de marzo de 2027": "The conference will take place on 19—21 March 2027",
       "Entendido": "Got it",
       "Este programa es provisional y se ajustará a las nuevas fechas.": "This programme is provisional and will be adjusted to the new dates.",
       // Menú y portada
@@ -289,7 +289,7 @@
       "19—21 de marzo de 2027": "19—21 de março de 2027",
       "La convocatoria de elecciones generales obliga a aplazar ComVino, que se celebrará del 19 al 21 de marzo de 2027 en la Villa de Teguise.": "A convocação de eleições gerais obriga a adiar o ComVino, que se realizará de 19 a 21 de março de 2027 na Villa de Teguise.",
       "Aviso importante": "Aviso importante",
-      "El congreso se aplaza al 19—21 de marzo de 2027": "O congresso é adiado para 19—21 de março de 2027",
+      "El congreso se celebrará del 19 al 21 de marzo de 2027": "O congresso realiza-se de 19 a 21 de março de 2027",
       "Entendido": "Entendido",
       "Este programa es provisional y se ajustará a las nuevas fechas.": "Este programa é provisório e será ajustado às novas datas.",
       // Menu e capa
